@@ -1,0 +1,20 @@
+- args:
+  - 5
+  instruction: LOAD_CONST
+- args:
+  - 408
+  instruction: LOAD_CONST
+- args: []
+  instruction: STORE_MEM
+- args:
+  - 5
+  instruction: LOAD_CONST
+- args:
+  - 2
+  instruction: LOAD_CONST
+- args:
+  - 7
+  instruction: LOAD_CONST
+- args:
+  - 0
+  instruction: MUL
