@@ -1,0 +1,180 @@
+- args:
+  - 0
+  instruction: LOAD_CONST
+- args:
+  - 1
+  instruction: LOAD_CONST
+- args: []
+  instruction: STORE_MEM
+- args:
+  - 1
+  instruction: LOAD_CONST
+- args:
+  - 2
+  instruction: LOAD_CONST
+- args: []
+  instruction: STORE_MEM
+- args:
+  - 2
+  instruction: LOAD_CONST
+- args:
+  - 3
+  instruction: LOAD_CONST
+- args: []
+  instruction: STORE_MEM
+- args:
+  - 3
+  instruction: LOAD_CONST
+- args:
+  - 4
+  instruction: LOAD_CONST
+- args: []
+  instruction: STORE_MEM
+- args:
+  - 4
+  instruction: LOAD_CONST
+- args:
+  - 5
+  instruction: LOAD_CONST
+- args: []
+  instruction: STORE_MEM
+- args:
+  - 5
+  instruction: LOAD_CONST
+- args:
+  - 6
+  instruction: LOAD_CONST
+- args: []
+  instruction: STORE_MEM
+- args:
+  - 6
+  instruction: LOAD_CONST
+- args:
+  - 6
+  instruction: LOAD_CONST
+- args: []
+  instruction: STORE_MEM
+- args:
+  - 7
+  instruction: LOAD_CONST
+- args:
+  - 5
+  instruction: LOAD_CONST
+- args: []
+  instruction: STORE_MEM
+- args:
+  - 8
+  instruction: LOAD_CONST
+- args:
+  - 4
+  instruction: LOAD_CONST
+- args: []
+  instruction: STORE_MEM
+- args:
+  - 9
+  instruction: LOAD_CONST
+- args:
+  - 3
+  instruction: LOAD_CONST
+- args: []
+  instruction: STORE_MEM
+- args:
+  - 10
+  instruction: LOAD_CONST
+- args:
+  - 2
+  instruction: LOAD_CONST
+- args: []
+  instruction: STORE_MEM
+- args:
+  - 11
+  instruction: LOAD_CONST
+- args:
+  - 1
+  instruction: LOAD_CONST
+- args: []
+  instruction: STORE_MEM
+- args:
+  - 0
+  instruction: LOAD_CONST
+- args:
+  - 6
+  instruction: LOAD_CONST
+- args: []
+  instruction: LOAD_MEM
+- args:
+  - 0
+  instruction: LOAD_CONST
+- args:
+  - 0
+  instruction: MUL
+- args:
+  - 1
+  instruction: LOAD_CONST
+- args:
+  - 7
+  instruction: LOAD_CONST
+- args: []
+  instruction: LOAD_MEM
+- args:
+  - 1
+  instruction: LOAD_CONST
+- args:
+  - 0
+  instruction: MUL
+- args:
+  - 2
+  instruction: LOAD_CONST
+- args:
+  - 8
+  instruction: LOAD_CONST
+- args: []
+  instruction: LOAD_MEM
+- args:
+  - 2
+  instruction: LOAD_CONST
+- args:
+  - 0
+  instruction: MUL
+- args:
+  - 3
+  instruction: LOAD_CONST
+- args:
+  - 9
+  instruction: LOAD_CONST
+- args: []
+  instruction: LOAD_MEM
+- args:
+  - 3
+  instruction: LOAD_CONST
+- args:
+  - 0
+  instruction: MUL
+- args:
+  - 4
+  instruction: LOAD_CONST
+- args:
+  - 10
+  instruction: LOAD_CONST
+- args: []
+  instruction: LOAD_MEM
+- args:
+  - 4
+  instruction: LOAD_CONST
+- args:
+  - 0
+  instruction: MUL
+- args:
+  - 5
+  instruction: LOAD_CONST
+- args:
+  - 11
+  instruction: LOAD_CONST
+- args: []
+  instruction: LOAD_MEM
+- args:
+  - 5
+  instruction: LOAD_CONST
+- args:
+  - 0
+  instruction: MUL
